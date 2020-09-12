@@ -1,0 +1,22 @@
+{
+  "name": "greg-electron-starter-2020",
+  "version": "1.0.0",
+  "description": "An Electron Starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pipejesus/greg-electron-starter-2020.git"
+  },
+  "author": "Grzegorz Jasiński",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pipejesus/greg-electron-starter-2020/issues"
+  },
+  "homepage": "https://github.com/pipejesus/greg-electron-starter-2020#readme",
+  "devDependencies": {
+    "electron": "^10.1.1"
+  }
+}
